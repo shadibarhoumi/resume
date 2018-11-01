@@ -1,12 +1,16 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Technical
+  description: <ul>
+    <li>React, Redux, Apollo, Angular, Sequelize</li>
+    <li>HTML5, CSS3</li>
+    <li>iOS Native (Swift)</li>
+    <li>Ruby on Rails</li>
+    </ul>
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
-
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Languages
+  description: <ul><li>Fluent in spoken and written Mandarin Chinese</li><li>Conversational in Vietnamese</li></ul>
+#
+# # Digital content development and creation
+# - skill: Digital content development and creation
+#   description: Copy writing, graphic design, web design, front-end web development, print design
